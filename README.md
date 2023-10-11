@@ -12,13 +12,13 @@ Analyze T20 World Cup (2022) player stats to create the strongest playing XI sco
 
 - Stored the scraped data in JSON format for further processing.
 
-### Data Transformation 
+### Data Cleaning & Transformation 
 
 - Employed Python and Pandas to convert the JSON data into CSV format, ensuring it was in a suitable format for direct use in Power BI.
 
 - Simplified the data integration process for Power BI by structuring it for seamless table joins.
 
-## Dashboard Creation
+## Data Modeling & Dashboard Creation in Power BI
 
 - Leveraged Power Query within Power BI to further refine and cleanse the data for analysis.
 
