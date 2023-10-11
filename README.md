@@ -1,4 +1,4 @@
-# T20-wc-2022-_analysis
+# T20-wc-2022_analysis
 
 ## Objective
 
