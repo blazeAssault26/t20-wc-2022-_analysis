@@ -32,13 +32,5 @@ Analyze T20 World Cup (2022) player stats to create the strongest playing XI sco
 
 - The final playing 11 was meticulously determined to optimize team performance and enhance the chances of success in the ICC Cricket World Cup 2022.
 
-## Technologies Used
 
-- Web Scraping: Bright Data 
-
-- Programming Language: Python
-
-- Data Manipulation: Pandas
-
-- Data Visualization: Power BI
 
